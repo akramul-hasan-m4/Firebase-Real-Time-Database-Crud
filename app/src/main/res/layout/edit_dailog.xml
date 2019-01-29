@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editKey"
+        android:visibility="invisible"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/editAuthoreName"
+        android:layout_width="match_parent"
+        tools:text="ggggggggg"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/editBookName"
+        android:layout_width="match_parent"
+        tools:text="kkkkkkk"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnupdate"
+        android:layout_width="match_parent"
+        android:text="UPDATE"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

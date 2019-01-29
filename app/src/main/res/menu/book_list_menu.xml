@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newBook"
+        android:visible="false"
+        android:title="Add new Book" />
+
+    <item
+        android:id="@+id/mReg"
+        android:title="Registration" />
+
+    <item
+        android:id="@+id/mlogin"
+        android:title="Log In" />
+
+    <item
+        android:id="@+id/logout"
+        android:visible="false"
+        android:title="Logout" />
+</menu>

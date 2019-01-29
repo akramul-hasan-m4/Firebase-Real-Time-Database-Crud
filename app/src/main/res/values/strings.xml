@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Realtime Database CRUD</string>
+    <string name="myAlphaNumeric">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 -</string>
+</resources>

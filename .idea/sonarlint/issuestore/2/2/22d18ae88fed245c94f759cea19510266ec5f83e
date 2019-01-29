@@ -1,0 +1,6 @@
+
+ysquid:S1450"[Remove the "signInButton" field and declare it as a local variable in the relevant methods.(»åÍ…8‘Á—¤‰-
+vsquid:S1450"XRemove the "regButton" field and declare it as a local variable in the relevant methods.(¸”š³8‘Á—¤‰-
+¥squid:S2681P"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Şû–µ8çÑ—¤‰-
+>squid:S3626D"Remove this redundant jump.(Óú€Òşÿÿÿÿ8çÑ—¤‰-
+Zsquid:S3972e"7Move this "if" to a new line or add the missing "else".(¶ÓïŸúÿÿÿÿ8çÑ—¤‰-

@@ -1,0 +1,6 @@
+
+fsquid:HiddenFieldCheck'"8Rename "book" which hides the field declared at line 14.(·ç…áþÿÿÿÿ8Ô¦û÷†-
+Zsquid:S3972?"7Move this "if" to a new line or add the missing "else".(†ŽÆÏûÿÿÿÿ8Ô¦û÷†-
+nsquid:S1301!"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8Ô¦û÷†-
+\"squid:SwitchLastCaseIsDefaultCheck!""Add a default case to this switch.(×“¾ñùÿÿÿÿ8Ô¦û÷†-
+Usquid:S39728"7Move this "if" to a new line or add the missing "else".(Á‰ÿÛ8Ô¦û÷†-
